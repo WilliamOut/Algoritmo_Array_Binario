@@ -22,7 +22,7 @@ public class OrdArray {
     		LineOfPiece = (lowerPiece + upperPiece)/2;	// achar o calculo da metade
     		
     		if(a[LineOfPiece] == key) {
-    			return LineOfPiece;			//bloco de encontro
+    			return LineOfPiece;			//encontrado
     		}
     		else if(lowerPiece>key){
     			return Nelemens;			// se a menor parte for mair que a chave, acabou, reinicie
@@ -36,7 +36,7 @@ public class OrdArray {
     			}
     		}
     	}
-    	return -1;
+    	return -1;  // não encontrado 
     }
     
 
