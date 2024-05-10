@@ -1,6 +1,6 @@
-package DeletarArray.application;
+package ARRAYS.application;
 
-import DeletarArray.entities.OrdArray;
+import ARRAYS.entities.OrdArray;
 
 public class MainArray {
     public static void main(String[] args) {

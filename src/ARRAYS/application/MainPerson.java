@@ -1,7 +1,7 @@
-package DeletarArray.application;
+package ARRAYS.application;
 
-import DeletarArray.entities.Person;
-import DeletarArray.entities.StringArrayMetodos;
+import ARRAYS.entities.Person;
+import ARRAYS.entities.StringArrayMetodos;
 
 public class MainPerson {
     public static void main(String[] args) {

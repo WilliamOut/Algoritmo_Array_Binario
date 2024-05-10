@@ -1,4 +1,4 @@
-package DeletarArray.entities;
+package ARRAYS.entities;
 
 public class Person {
     private String last_name;
