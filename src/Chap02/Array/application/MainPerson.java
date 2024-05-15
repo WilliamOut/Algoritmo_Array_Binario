@@ -1,7 +1,7 @@
-package ARRAYS.application;
+package Chap02.Array.application;
 
-import ARRAYS.entities.Person;
-import ARRAYS.entities.StringArrayMetodos;
+import Chap02.Array.entities.Person;
+import Chap02.Array.entities.StringArrayMetodos;
 
 public class MainPerson {
     public static void main(String[] args) {

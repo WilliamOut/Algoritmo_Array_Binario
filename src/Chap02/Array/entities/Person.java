@@ -1,4 +1,4 @@
-package ARRAYS.entities;
+package Chap02.Array.entities;
 
 public class Person {
     private String last_name;

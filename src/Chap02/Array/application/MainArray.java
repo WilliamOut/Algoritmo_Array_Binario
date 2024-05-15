@@ -1,6 +1,6 @@
-package ARRAYS.application;
+package Chap02.Array.application;
 
-import ARRAYS.entities.OrdArray;
+import Chap02.Array.entities.OrdArray;
 
 public class MainArray {
     public static void main(String[] args) {

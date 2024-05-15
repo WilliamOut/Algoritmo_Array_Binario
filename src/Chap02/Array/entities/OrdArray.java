@@ -1,4 +1,4 @@
-package ARRAYS.entities;
+package Chap02.Array.entities;
 
 public class OrdArray {
     private long[] a;
